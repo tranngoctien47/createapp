@@ -6,6 +6,7 @@ export const Section = styled.section`
   height: 100%;
   width: 100%;
   padding: 100px 0;
+  background-size: cover;
   @media (max-width: 991px) {
     padding: 100px 0;
     height: 100%;
