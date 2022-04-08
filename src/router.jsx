@@ -28,10 +28,10 @@ const routers = [
     //     element: <NewLogin />,
     // },
 
-    {
-        path: "*",
-        element: <Page404 />,
-    },
+    // {
+    //     path: "*",
+    //     element: <Page404 />,
+    // },
 ]
 
 export default routers
